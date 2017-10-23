@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1507129195 source:d:\1a_pp_castrelo.francisco\1a_pp_castrelo.francisco\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estacionamiento.h"
+
+1507127852 d:\1a_pp_castrelo.francisco\1a_pp_castrelo.francisco\estacionamiento.h
+
+1507128042 source:d:\1a_pp_castrelo.francisco\1a_pp_castrelo.francisco\estacionamiento.h.c
+	"estacionamiento.h"
+	<stdio.h>
+	<stdlib.h>
+
+1508760670 source:e:\primer parcial\1a_pp_castrelo.francisco\1a_pp_castrelo.francisco\estacionamiento.h.c
+	"estacionamiento.h"
+	<stdio.h>
+	<stdlib.h>
+
+1507691356 e:\primer parcial\1a_pp_castrelo.francisco\1a_pp_castrelo.francisco\estacionamiento.h
+
+1507691544 source:e:\primer parcial\1a_pp_castrelo.francisco\1a_pp_castrelo.francisco\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estacionamiento.h"
+
